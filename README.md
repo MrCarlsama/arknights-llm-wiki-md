@@ -2,7 +2,13 @@
 
 这是一个面向 AI/LLM 使用的《明日方舟》Markdown 知识库快照。
 
-它基于 Karpathy-style LLM Wiki 的思路生成：把领域语料整理成一组文件系统形态的 Markdown 页面，让 AI agent 可以用 `list_dir`、`read_markdown` 这类简单工具逐层读取，而不是依赖隐藏的向量数据库或黑盒 RAG 流程。
+它基于 Andrej Karpathy 提出的 LLM Wiki 思路生成：把领域语料整理成一组文件系统形态的 Markdown 页面，让 AI agent 可以用 `list_dir`、`read_markdown` 这类简单工具逐层读取，而不是依赖隐藏的向量数据库或黑盒 RAG 流程。
+
+Karpathy 原始来源：
+
+```text
+https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+```
 
 你可以把这个仓库直接作为《明日方舟》剧情、角色、活动、别名、证据引用和内部 wiki 导航的 AI 知识库。
 
