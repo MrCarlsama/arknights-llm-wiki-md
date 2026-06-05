@@ -1,0 +1,1010 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / char_225_haak"
+text_complete: true
+---
+
+# 资料页 / character_table / char_225_haak
+
+## 链接的 Wiki 页面
+
+- [阿 (character)](../../characters/阿-c2858d9b65.md)
+- [罗德岛 (faction)](../../factions/罗德岛-16a64a278e.md)
+
+## 证据正文
+
+```text
+{
+ "name": "阿",
+ "description": "自身生命会不断流失",
+ "sortIndex": 0,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": "p_char_225_haak",
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": "class_p_char_225_haak",
+ "nationId": "lungmen",
+ "groupId": null,
+ "teamId": "lee",
+ "mainPower": {
+ "nationId": "lungmen",
+ "groupId": null,
+ "teamId": "lee"
+ },
+ "subPower": null,
+ "displayNumber": "LM20",
+ "appellation": "Aak",
+ "position": "RANGED",
+ "tagList": [
+ "支援",
+ "输出"
+ ],
+ "itemUsage": "罗德岛特种干员阿，将在后方支援其他干员。",
+ "itemDesc": "你有权不在他的支援范围内行动。",
+ "itemObtainApproach": "招募寻访",
+ "isNotObtainable": false,
+ "isSpChar": false,
+ "maxPotentialLevel": 5,
+ "rarity": "TIER_6",
+ "profession": "SPECIAL",
+ "subProfessionId": "geek",
+ "trait": {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "blackboard": [
+ {
+ "key": "hp_ratio",
+ "value": 0.01,
+ "valueStr": null
+ }
+ ],
+ "overrideDescripton": null,
+ "prefabKey": null,
+ "rangeId": null
+ }
+ ]
+ },
+ "phases": [
+ {
+ "characterPrefabKey": "char_225_haak",
+ "rangeId": "3-1",
+ "maxLevel": 50,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 865,
+ "atk": 247,
+ "def": 58,
+ "magicResistance": 10,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.3,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 1236,
+ "atk": 413,
+ "def": 90,
+ "magicResistance": 10,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.3,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "char_225_haak",
+ "rangeId": "3-3",
+ "maxLevel": 80,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1236,
+ "atk": 413,
+ "def": 90,
+ "magicResistance": 10,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.3,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 80,
+ "data": {
+ "maxHp": 1627,
+ "atk": 583,
+ "def": 121,
+ "magicResistance": 10,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.3,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3281",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30022",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30042",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "characterPrefabKey": "char_225_haak",
+ "rangeId": "3-3",
+ "maxLevel": 90,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1627,
+ "atk": 583,
+ "def": 121,
+ "magicResistance": 10,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.3,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 90,
+ "data": {
+ "maxHp": 2034,
+ "atk": 703,
+ "def": 152,
+ "magicResistance": 10,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.3,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3283",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30135",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31014",
+ "count": 7,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "skills": [
+ {
+ "skillId": "skchr_haak_1",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31014",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30013",
+ "count": 11,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 12,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30094",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30074",
+ "count": 9,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 15,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30115",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31024",
+ "count": 6,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "skchr_haak_2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30044",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31023",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 12,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30104",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30084",
+ "count": 7,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 15,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30135",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31014",
+ "count": 6,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "skchr_haak_3",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30054",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31013",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 12,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31024",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30104",
+ "count": 8,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 15,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30125",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31024",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ }
+ }
+ ],
+ "displayTokenDict": null,
+ "talents": [
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "混合药物射击",
+ "description": "每次攻击时会随机触发下列效果之一：回复自身生命13%；当次攻击力提升至130%；目标<$ba.sluggish>停顿1秒；目标<$ba.stun>晕眩0.6秒",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "hp_ratio",
+ "value": 0.13,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 1.3,
+ "valueStr": null
+ },
+ {
+ "key": "sluggish",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 0.6,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "混合药物射击",
+ "description": "每次攻击时会随机触发下列效果之一：回复自身生命14%；当次攻击力提升至140%；目标<$ba.sluggish>停顿1.2秒；目标<$ba.stun>晕眩0.8秒",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "hp_ratio",
+ "value": 0.14,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 1.4,
+ "valueStr": null
+ },
+ {
+ "key": "sluggish",
+ "value": 1.2,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 0.8,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "混合药物射击",
+ "description": "每次攻击时会随机触发下列效果之一：回复自身生命15%；当次攻击力提升至150%；目标<$ba.sluggish>停顿1.4秒；目标<$ba.stun>晕眩1秒",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "hp_ratio",
+ "value": 0.15,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 1.5,
+ "valueStr": null
+ },
+ {
+ "key": "sluggish",
+ "value": 1.4,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ }
+ ]
+ },
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "2",
+ "name": "药剂扩散",
+ "description": "自身受到的治疗量+20%",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "heal_scale",
+ "value": 1.2,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "2",
+ "name": "药剂扩散",
+ "description": "自身受到的治疗量+25%（+5%）",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "heal_scale",
+ "value": 1.25,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ }
+ ]
+ }
+ ],
+ "potentialRanks": [
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "再部署时间-4秒",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "RESPAWN_TIME",
+ "formulaItem": "ADDITION",
+ "value": -4,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "生命上限+150",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "MAX_HP",
+ "formulaItem": "ADDITION",
+ "value": 150,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "CUSTOM",
+ "description": "第二天赋效果增强",
+ "buff": null,
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ }
+ ],
+ "favorKeyFrames": [
+ {
+ "level": 0,
+ "data": {
+ "maxHp": 0,
+ "atk": 0,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 300,
+ "atk": 50,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "allSkillLvlup": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30021",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30051",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30032",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30042",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30022",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31023",
+ "count": 6,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3303",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30053",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30073",
+ "count": 6,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ]
+}
+```

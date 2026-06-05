@@ -1,0 +1,854 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / char_1011_lava2"
+text_complete: true
+---
+
+# 资料页 / character_table / char_1011_lava2
+
+## 链接的 Wiki 页面
+
+- [炎熔 (character)](../../characters/炎熔-8ca47b942e.md)
+- [炎狱炎熔 (character)](../../characters/炎狱炎熔-4e494f93fc.md)
+- [罗德岛 (faction)](../../factions/罗德岛-16a64a278e.md)
+
+## 证据正文
+
+```text
+{
+ "name": "炎狱炎熔",
+ "description": "攻击造成群体法术伤害",
+ "sortIndex": 1090,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": "p_char_1011_lava2",
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": null,
+ "nationId": "rhodes",
+ "groupId": null,
+ "teamId": null,
+ "mainPower": {
+ "nationId": "rhodes",
+ "groupId": null,
+ "teamId": null
+ },
+ "subPower": [
+ {
+ "nationId": "victoria",
+ "groupId": null,
+ "teamId": null
+ }
+ ],
+ "displayNumber": "RF01",
+ "appellation": "Lava the Purgatory",
+ "position": "RANGED",
+ "tagList": [
+ "输出"
+ ],
+ "itemUsage": "罗德岛术师干员炎狱炎熔，将熟练地运用高超的源石技艺为您开辟空间。",
+ "itemDesc": "和最初进入罗德岛时相比，她的法术实力已经不可同日而语。",
+ "itemObtainApproach": "活动获得",
+ "isNotObtainable": false,
+ "isSpChar": true,
+ "maxPotentialLevel": 5,
+ "rarity": "TIER_5",
+ "profession": "CASTER",
+ "subProfessionId": "splashcaster",
+ "trait": null,
+ "phases": [
+ {
+ "characterPrefabKey": "char_1011_lava2",
+ "rangeId": "2-3",
+ "maxLevel": 50,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 692,
+ "atk": 370,
+ "def": 46,
+ "magicResistance": 10,
+ "cost": 32,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 2.9,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 962,
+ "atk": 522,
+ "def": 70,
+ "magicResistance": 10,
+ "cost": 32,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 2.9,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "char_1011_lava2",
+ "rangeId": "3-6",
+ "maxLevel": 70,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 962,
+ "atk": 522,
+ "def": 70,
+ "magicResistance": 15,
+ "cost": 35,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 2.9,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 70,
+ "data": {
+ "maxHp": 1203,
+ "atk": 670,
+ "def": 96,
+ "magicResistance": 15,
+ "cost": 35,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 2.9,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3251",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30012",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30052",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "characterPrefabKey": "char_1011_lava2",
+ "rangeId": "3-6",
+ "maxLevel": 80,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1203,
+ "atk": 670,
+ "def": 96,
+ "magicResistance": 20,
+ "cost": 35,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 2.9,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 80,
+ "data": {
+ "maxHp": 1543,
+ "atk": 798,
+ "def": 115,
+ "magicResistance": 20,
+ "cost": 35,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 2.9,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3253",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30074",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30093",
+ "count": 13,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "skills": [
+ {
+ "skillId": "skchr_lava2_1",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30074",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30053",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31034",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31014",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 10,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30135",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30104",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "skchr_lava2_2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30084",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30063",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30014",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30094",
+ "count": 6,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 10,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30145",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30064",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ }
+ }
+ ],
+ "displayTokenDict": null,
+ "talents": [
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "咒术阵线",
+ "description": "首次部署后立即获得15点技力，每次部署时使在场术师干员技力+2，在场时其余友方术师干员初始技力+2",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "lava2_t_1[ally].sp",
+ "value": 2,
+ "valueStr": null
+ },
+ {
+ "key": "lava2_t_1[self].sp",
+ "value": 15,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "咒术阵线",
+ "description": "首次部署后立即获得20（+5）点技力，每次部署时使在场术师干员技力+3（+1），在场时其余友方术师干员初始技力+3（+1）",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "lava2_t_1[ally].sp",
+ "value": 3,
+ "valueStr": null
+ },
+ {
+ "key": "lava2_t_1[self].sp",
+ "value": 20,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "咒术阵线",
+ "description": "首次部署后立即获得30点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "lava2_t_1[ally].sp",
+ "value": 4,
+ "valueStr": null
+ },
+ {
+ "key": "lava2_t_1[self].sp",
+ "value": 30,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "咒术阵线",
+ "description": "首次部署后立即获得35（+5）点技力，每次部署时使在场术师干员技力+5（+1），在场时其余友方术师干员初始技力+5（+1）",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "lava2_t_1[ally].sp",
+ "value": 5,
+ "valueStr": null
+ },
+ {
+ "key": "lava2_t_1[self].sp",
+ "value": 35,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ }
+ ]
+ }
+ ],
+ "potentialRanks": [
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "再部署时间-10秒",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "RESPAWN_TIME",
+ "formulaItem": "ADDITION",
+ "value": -10,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "CUSTOM",
+ "description": "天赋效果增强",
+ "buff": null,
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ }
+ ],
+ "favorKeyFrames": [
+ {
+ "level": 0,
+ "data": {
+ "maxHp": 0,
+ "atk": 0,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 0,
+ "atk": 90,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "allSkillLvlup": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30021",
+ "count": 7,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30032",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30042",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31033",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30013",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30063",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ]
+}
+```

@@ -1,0 +1,17 @@
+---
+kind: "evidence"
+title: "剧情简介 / activities/act37side/level_act37side_05_beg"
+text_complete: true
+---
+
+# 剧情简介 / activities/act37side/level_act37side_05_beg
+
+## 链接的 Wiki 页面
+
+暂无实体链接。
+
+## 证据正文
+
+```text
+战后由议会所支持的工人群体组建了伦蒂尼姆工业振兴协会，费斯特作为顾问开始重启科技研发以及协助城市重建。与此同时，资源短缺带来的矛盾却依旧存在。
+```

@@ -1,0 +1,516 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / token_10020_ling_soul2"
+text_complete: true
+---
+
+# 资料页 / character_table / token_10020_ling_soul2
+
+## 链接的 Wiki 页面
+
+- [“逍遥” (unit)](../../units/“逍遥”-90f3bf22eb.md)
+
+## 证据正文
+
+```text
+{
+ "name": "“逍遥”",
+ "description": "攻击造成法术伤害",
+ "sortIndex": 1011,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": null,
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": null,
+ "nationId": null,
+ "groupId": null,
+ "teamId": null,
+ "mainPower": {
+ "nationId": null,
+ "groupId": null,
+ "teamId": null
+ },
+ "subPower": null,
+ "displayNumber": null,
+ "appellation": "Peripateticism",
+ "position": "RANGED",
+ "tagList": null,
+ "itemUsage": null,
+ "itemDesc": null,
+ "itemObtainApproach": null,
+ "isNotObtainable": false,
+ "isSpChar": false,
+ "maxPotentialLevel": 0,
+ "rarity": "TIER_6",
+ "profession": "TOKEN",
+ "subProfessionId": "notchar1",
+ "trait": null,
+ "phases": [
+ {
+ "characterPrefabKey": "token_10020_ling_soul2",
+ "rangeId": "3-1",
+ "maxLevel": 50,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 810,
+ "atk": 270,
+ "def": 83,
+ "magicResistance": 15,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.6,
+ "respawnTime": 10,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 942,
+ "atk": 314,
+ "def": 96,
+ "magicResistance": 15,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.6,
+ "respawnTime": 10,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "token_10020_ling_soul2",
+ "rangeId": "3-1",
+ "maxLevel": 80,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 942,
+ "atk": 314,
+ "def": 96,
+ "magicResistance": 20,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.6,
+ "respawnTime": 10,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 80,
+ "data": {
+ "maxHp": 1083,
+ "atk": 361,
+ "def": 110,
+ "magicResistance": 20,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.6,
+ "respawnTime": 10,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "token_10020_ling_soul2",
+ "rangeId": "3-1",
+ "maxLevel": 90,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1083,
+ "atk": 361,
+ "def": 110,
+ "magicResistance": 20,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.6,
+ "respawnTime": 10,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 90,
+ "data": {
+ "maxHp": 1217,
+ "atk": 406,
+ "def": 124,
+ "magicResistance": 20,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.6,
+ "respawnTime": 10,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ }
+ ],
+ "skills": [
+ {
+ "skillId": "sktok_ling_soul2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "sktok_ling_soul2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "sktok_ling_soul2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 0,
+ "levelUpCost": null
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ }
+ }
+ ],
+ "displayTokenDict": null,
+ "talents": [
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": null,
+ "description": "TOKEN数+3",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "max_deck_stack_cnt",
+ "value": 3,
+ "valueStr": null
+ },
+ {
+ "key": "max_deploy_count",
+ "value": 2,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": true
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": null,
+ "description": "TOKEN数+4",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "max_deck_stack_cnt",
+ "value": 4,
+ "valueStr": null
+ },
+ {
+ "key": "max_deploy_count",
+ "value": 2,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": true
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": null,
+ "description": "TOKEN数+5",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "max_deck_stack_cnt",
+ "value": 5,
+ "valueStr": null
+ },
+ {
+ "key": "max_deploy_count",
+ "value": 2,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": true
+ }
+ ]
+ },
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "2",
+ "name": null,
+ "description": null,
+ "rangeId": null,
+ "blackboard": [],
+ "tokenKey": null,
+ "isHideTalent": true
+ }
+ ]
+ }
+ ],
+ "potentialRanks": [],
+ "favorKeyFrames": null,
+ "allSkillLvlup": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": null
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": null
+ }
+ ]
+}
+```

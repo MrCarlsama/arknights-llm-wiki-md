@@ -1,0 +1,265 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / char_507_rsnipe"
+text_complete: true
+---
+
+# 资料页 / character_table / char_507_rsnipe
+
+## 链接的 Wiki 页面
+
+- [预备干员-狙击 (character)](../../characters/预备干员-狙击-3b31c2bbb1.md)
+- [预备干员-狙击 (character)](../../characters/预备干员-狙击-2fa0bf33f3.md)
+
+## 证据正文
+
+```text
+{
+ "name": "预备干员-狙击",
+ "description": "优先攻击空中单位",
+ "sortIndex": 1183,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": null,
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": null,
+ "nationId": null,
+ "groupId": null,
+ "teamId": null,
+ "mainPower": {
+ "nationId": null,
+ "groupId": null,
+ "teamId": null
+ },
+ "subPower": null,
+ "displayNumber": null,
+ "appellation": "Reserve (Sniper)",
+ "position": "RANGED",
+ "tagList": [
+ "输出"
+ ],
+ "itemUsage": null,
+ "itemDesc": null,
+ "itemObtainApproach": null,
+ "isNotObtainable": true,
+ "isSpChar": false,
+ "maxPotentialLevel": 0,
+ "rarity": "TIER_3",
+ "profession": "SNIPER",
+ "subProfessionId": "fastshot",
+ "trait": null,
+ "phases": [
+ {
+ "characterPrefabKey": "char_507_rsnipe",
+ "rangeId": "3-1",
+ "maxLevel": 40,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 482,
+ "atk": 165,
+ "def": 48,
+ "magicResistance": 0,
+ "cost": 8,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 40,
+ "data": {
+ "maxHp": 754,
+ "atk": 276,
+ "def": 80,
+ "magicResistance": 0,
+ "cost": 8,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "char_507_rsnipe",
+ "rangeId": "3-3",
+ "maxLevel": 55,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 754,
+ "atk": 276,
+ "def": 80,
+ "magicResistance": 0,
+ "cost": 10,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 55,
+ "data": {
+ "maxHp": 980,
+ "atk": 401,
+ "def": 115,
+ "magicResistance": 0,
+ "cost": 10,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ }
+ ],
+ "skills": [],
+ "displayTokenDict": null,
+ "talents": null,
+ "potentialRanks": [],
+ "favorKeyFrames": [
+ {
+ "level": 0,
+ "data": {
+ "maxHp": 0,
+ "atk": 0,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 0,
+ "atk": 0,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "allSkillLvlup": []
+}
+```

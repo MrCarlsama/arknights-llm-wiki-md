@@ -1,0 +1,45 @@
+---
+kind: "unit"
+id: "unit:trap_733_cdkzmra"
+name: "竞技记录分析仪"
+aliases: ["竞技记录分析仪","Complex Arithmetic Component"]
+source_count: 5
+mention_count: 6
+---
+
+# 竞技记录分析仪
+
+## 元数据
+
+```json
+{
+  "gameId": "trap_733_cdkzmra",
+  "rarity": "TIER_1",
+  "profession": "TRAP",
+  "subProfessionId": "notchar2",
+  "nationId": null,
+  "groupId": null,
+  "teamId": null,
+  "itemUsage": null,
+  "itemDesc": null,
+  "tags": null
+}
+```
+
+## 覆盖
+
+- 内部证据页: 5
+- 命中次数: 6
+
+## 证据引用
+
+1. [资料页 / character_table / trap_729_cdkzmr](../sources/json/excel_character_table.json-trap_729_cdkzmr-39f34160838c.md)
+   - excerpt: {  "name": "竞技记录分析仪",  "description": null,  "sortIndex": 471,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+2. [资料页 / character_table / trap_733_cdkzmra](../sources/json/excel_character_table.json-trap_733_cdkzmra-ae6cb4deacc8.md)
+   - excerpt: {  "name": "竞技记录分析仪",  "description": null,  "sortIndex": 472,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+3. [资料页 / character_table / trap_734_cdkzmrb](../sources/json/excel_character_table.json-trap_734_cdkzmrb-15885c1babb4.md)
+   - excerpt: {  "name": "竞技记录分析仪",  "description": null,  "sortIndex": 473,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+4. [资料页 / climb_tower_table / mainCards](../sources/json/excel_climb_tower_table.json-mainCards-1d1ec491a686.md)
+   - excerpt: "card_04": {  "id": "card_04",  "type": "SEASON",  "linkedTowerId": null,  "sortId": 4,  "name": "竞技记录分析仪",  "desc": "<color=#FF4200>被动效果：</color>卡西米尔干员自卡西米尔干员处获得战术装备时，撤退的卡西米尔干员直接返回再部署区\\n\\n<color=#FF4200>主动效果：</color>减少再部署区所有卡西米尔干员5点部署费用",  "subCardIds": [  "subcard_04_01",  "subcard_04_02"  ],  "runeData": {  "id": 
+5. [资料页 / climb_tower_table / missionData](../sources/json/excel_climb_tower_table.json-missionData-f88dad0c1036.md)
+   - excerpt: rdId": "card_04",  "bindTowerId": null,  "id": "tower_season3_3",  "sortId": 3,  "description": "使用[竞技记录分析仪]进行任意保全作战，并且清理进度达到5层或以上",  "type": "TOWERSEASON",  "itemBgType": "COMMON",  "preMissionIds": null,  "template": "TowerCardPassLayer",  "templateType": "0",  "param": [  "0",  "card_04",  "5"  ],  "unlockCondition"

@@ -1,0 +1,31 @@
+---
+kind: "relation"
+left_id: "event:story_phatom_set_1"
+right_id: "unit:trap_627_xb2amy"
+left: "合作"
+right: "阿米娅"
+left_kind: "event"
+right_kind: "unit"
+source_count: 111
+---
+
+# 合作 (event) / 阿米娅 (unit)
+
+## 覆盖
+
+- 内部证据页: 111
+
+## 证据引用
+
+1. [剧情简介 / obt/main/level_main_04-05_end](../sources/story/story__uc_info_obt_main_level_main_04-05_end.txt-28ef4bd06cbc.md)
+   - excerpt: 陈终于松口，决定与罗德岛合作。 而与凯尔希交流过后，阿米娅决定前去营救陨星小队。
+2. [剧情简介 / obt/main/level_main_10-05_beg](../sources/story/story__uc_info_obt_main_level_main_10-05_beg.txt-635168bf1eaa.md)
+   - excerpt: 费斯特带领阿米娅等人来到自救军地下据点，众人结识自救军指挥官克洛维希娅。蔓德拉向萨卡兹请罪，与曼弗雷德再次达成合作。
+3. [剧情简介 / obt/main/level_main_10-06_beg](../sources/story/story__uc_info_obt_main_level_main_10-06_beg.txt-6123d3d200be.md)
+   - excerpt: 地下据点内，推进之王小组就之后的行动路线爆发争吵。阿米娅与博士一同说服了克洛维希娅，罗德岛与自救军达成合作。
+4. [剧情简介 / obt/main/level_st_14-02](../sources/story/story__uc_info_obt_main_level_st_14-02.txt-9c601be96f24.md)
+   - excerpt: 伦蒂尼姆城内，工人们开始与整合运动合作自救。而“阿喃那”终于完全降临到了碎片大厦的顶端。“生命脊椎”重新起飞，接上了阿米娅等人。
+5. [剧情脚本 / activities/act13side/level_act13side_08_end](../sources/story/story_activities_act13side_level_act13side_08_end.txt-b2528ff1cb27.md)
+   - excerpt: 染者”发声，事情就会迎刃而解。 砾：卡西米尔欢迎冠军。 砾：您的意思是......血骑士吗？不，您不会说这么肤浅的话...... 砾：......但无论怎样，我愿意相信您和临光小姐能攻克难关。 选项：阿米娅和各位医疗干员还好吗？ 砾：嗯，今天也在有条不紊地对感染者骑士进行检查和医治。 砾：罗德岛出色的效率有目共睹，我可以理解为何大骑士长愿意对你们如此信任。 砾：不过......明明我就在您身边，您倒是不愿意关心一下我呢？ 砾：这可让人有些伤心。 选项：确实该感谢砾小姐对我们的帮助。 砾：感谢......具体是要感谢什么呢？ 选项：感谢砾小姐尽职的护卫。 / 感谢砾小姐为束手束脚的我们提供了难能可贵的情报。 / 呃，感谢砾小姐陪我聊天
+6. [剧情脚本 / activities/act13side/level_act13side_09_beg](../sources/story/story_activities_act13side_level_act13side_09_beg.txt-a31a24b9e241.md)
+   - excerpt: 米尔2-9-1 砾：......好消息，博士。 砾：监正会同意罗德岛各位的外出申请了，“让重要的合作伙伴游览城市也是必要的”。 砾：本来，如果没有这一系列事件发生的话，您可以在大骑士领更自由一些的。 阿米娅：博士？您找我们吗？ 芙蓉：啊！骑士姐姐！正好我还有剩下的健康餐，你打包带回家吗？ 砾：...... 夜莺：......您好，砾小姐，博士。 选项：难得有机会去卡西米尔的其他地方参观。 / 想不想出去逛逛？ / 休——假——时——间—— 大嘴莫布：激烈的战斗！让人不敢相信自己的眼睛！ 大嘴莫布：不对！应该说，一位名不见经传的梦魇！首次闯入特锦赛，竟然就能与冠军分庭抗礼！ 大嘴莫布：鲜红的铠甲在赛场上碰撞，让今夜的月光也黯然失色！ 

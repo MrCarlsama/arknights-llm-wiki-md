@@ -1,0 +1,17 @@
+---
+kind: "evidence"
+title: "剧情简介 / activities/act51side/level_act51side_03_beg"
+text_complete: true
+---
+
+# 剧情简介 / activities/act51side/level_act51side_03_beg
+
+## 链接的 Wiki 页面
+
+暂无实体链接。
+
+## 证据正文
+
+```text
+索尼娅团结了争吵的学生们，决定带人去营救被暴徒欺骗的同学。途中，她得知多数人已被暴徒头目格罗莫夫骗去参加“竞拍会”。在经历了一些残酷的冲突和误会后，索尼娅决定去对付格罗莫夫。
+```

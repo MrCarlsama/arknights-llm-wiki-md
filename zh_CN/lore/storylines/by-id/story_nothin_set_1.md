@@ -1,0 +1,16 @@
+---
+kind: "storyline_redirect"
+storage: "markdown"
+event_id: "story_nothin_set_1"
+event_name: "落水人"
+---
+
+# 落水人
+
+这是稳定路径导航页，供 LLM 避免复制中文标点文件名。回答事实前仍应打开 canonical_path 或其证据链接。
+
+- event_id: story_nothin_set_1
+- canonical_path: [../落水人-story_nothin_set_1-665c75ad65.md](../落水人-story_nothin_set_1-665c75ad65.md)
+- story_notes_path: 未生成
+- notable_terms: “荆先生” / 酒家掌柜 / 街头混混 / 女侠？ / 凶恶的声音 / 暗处的声音 / 蓟家打手 / 掌柜的声音
+- summary: 落水人 覆盖 1 个剧情节点；摘要只基于内部 wiki 证据页和剧情简介生成。

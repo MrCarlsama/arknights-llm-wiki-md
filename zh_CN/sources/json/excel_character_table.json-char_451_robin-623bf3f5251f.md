@@ -1,0 +1,871 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / char_451_robin"
+text_complete: true
+---
+
+# 资料页 / character_table / char_451_robin
+
+## 链接的 Wiki 页面
+
+- [罗宾 (character)](../../characters/罗宾-97a279b27f.md)
+- [“夹子” (unit)](../../units/“夹子”-62df27c1c9.md)
+- [敌人 (event)](../../events/敌人-0c7c99b39b.md)
+
+## 证据正文
+
+```text
+{
+ "name": "罗宾",
+ "description": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中",
+ "sortIndex": 612,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": "p_char_451_robin",
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": null,
+ "nationId": "columbia",
+ "groupId": null,
+ "teamId": null,
+ "mainPower": {
+ "nationId": "columbia",
+ "groupId": null,
+ "teamId": null
+ },
+ "subPower": null,
+ "displayNumber": "CB08",
+ "appellation": "Robin",
+ "position": "RANGED",
+ "tagList": [
+ "召唤",
+ "位移"
+ ],
+ "itemUsage": "特种干员罗宾，都市女孩。",
+ "itemDesc": "她偶尔会模仿一些电影中出现的动作。",
+ "itemObtainApproach": "活动获得",
+ "isNotObtainable": false,
+ "isSpChar": false,
+ "maxPotentialLevel": 5,
+ "rarity": "TIER_5",
+ "profession": "SPECIAL",
+ "subProfessionId": "traper",
+ "trait": null,
+ "phases": [
+ {
+ "characterPrefabKey": "char_451_robin",
+ "rangeId": "3-1",
+ "maxLevel": 50,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 674,
+ "atk": 232,
+ "def": 68,
+ "magicResistance": 0,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 899,
+ "atk": 319,
+ "def": 104,
+ "magicResistance": 0,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "char_451_robin",
+ "rangeId": "3-3",
+ "maxLevel": 70,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 899,
+ "atk": 319,
+ "def": 104,
+ "magicResistance": 0,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 70,
+ "data": {
+ "maxHp": 1139,
+ "atk": 420,
+ "def": 137,
+ "magicResistance": 0,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3281",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30032",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30042",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "characterPrefabKey": "char_451_robin",
+ "rangeId": "3-3",
+ "maxLevel": 80,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1139,
+ "atk": 420,
+ "def": 137,
+ "magicResistance": 0,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 80,
+ "data": {
+ "maxHp": 1442,
+ "atk": 513,
+ "def": 166,
+ "magicResistance": 0,
+ "cost": 13,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 80,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3283",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31024",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30053",
+ "count": 11,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "skills": [
+ {
+ "skillId": "skchr_robin_1",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31034",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31013",
+ "count": 1,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30054",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30044",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 10,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30125",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30064",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "skchr_robin_2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30104",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30083",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30064",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31014",
+ "count": 6,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 10,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30115",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30044",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ }
+ }
+ ],
+ "displayTokenDict": {
+ "token_10013_robin_mine": true
+ },
+ "talents": [
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "“夹子”专家",
+ "description": "可以使用4个\"夹子\"陷阱（最多拥有6个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 4,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10013_robin_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "“夹子”专家",
+ "description": "可以使用6（+2）个\"夹子\"陷阱（最多拥有6个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 6,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10013_robin_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "“夹子”专家",
+ "description": "可以使用6个\"夹子\"陷阱（最多拥有8个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 6,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10013_robin_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "“夹子”专家",
+ "description": "可以使用8（+2）个\"夹子\"陷阱（最多拥有8个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 8,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10013_robin_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "“夹子”专家",
+ "description": "可以使用8个\"夹子\"陷阱（最多拥有10个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 8,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10013_robin_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "“夹子”专家",
+ "description": "可以使用10（+2）个\"夹子\"陷阱（最多拥有10个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 10,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10013_robin_mine",
+ "isHideTalent": false
+ }
+ ]
+ }
+ ],
+ "potentialRanks": [
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "再部署时间-10秒",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "RESPAWN_TIME",
+ "formulaItem": "ADDITION",
+ "value": -10,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "CUSTOM",
+ "description": "天赋效果增强",
+ "buff": null,
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ }
+ ],
+ "favorKeyFrames": [
+ {
+ "level": 0,
+ "data": {
+ "maxHp": 0,
+ "atk": 0,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 200,
+ "atk": 40,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "allSkillLvlup": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30041",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30052",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30062",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30073",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30083",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30103",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ]
+}
+```

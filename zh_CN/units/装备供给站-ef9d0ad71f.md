@@ -1,0 +1,49 @@
+---
+kind: "unit"
+id: "unit:trap_632_xb2oeqstr"
+name: "装备供给站"
+aliases: ["装备供给站","Supply station-E"]
+source_count: 7
+mention_count: 9
+---
+
+# 装备供给站
+
+## 元数据
+
+```json
+{
+  "gameId": "trap_632_xb2oeqstr",
+  "rarity": "TIER_1",
+  "profession": "TRAP",
+  "subProfessionId": "notchar2",
+  "nationId": null,
+  "groupId": null,
+  "teamId": null,
+  "itemUsage": null,
+  "itemDesc": null,
+  "tags": null
+}
+```
+
+## 覆盖
+
+- 内部证据页: 7
+- 命中次数: 9
+
+## 证据引用
+
+1. [资料页 / character_table / trap_586_xb2eqstr](../sources/json/excel_character_table.json-trap_586_xb2eqstr-1bcaeaaf76b9.md)
+   - excerpt: {  "name": "装备供给站",  "description": null,  "sortIndex": 1274,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+2. [资料页 / character_table / trap_632_xb2oeqstr](../sources/json/excel_character_table.json-trap_632_xb2oeqstr-9992a424e732.md)
+   - excerpt: {  "name": "装备供给站",  "description": null,  "sortIndex": 1273,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+3. [资料页 / sandbox_perm_table / itemData.sandbox_2_building_service_5](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_building_service_5-04225a24b932.md)
+   - excerpt: {  "itemId": "sandbox_2_building_service_5",  "itemType": "BUILDING",  "itemName": "装备供给站",  "itemUsage": "消耗装备和武器时维持大幅繁荣度和增益",  "itemDesc": "外勤部干员在每次任务出发前，都会来这里挑选最称手的东西。",  "itemRarity": 2,  "sortId": 5000051,  "obtainApproach": "制作获得" }
+4. [资料页 / sandbox_perm_table / itemData.sandbox_2_recipe_service_5](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_recipe_service_5-f06a15f4addc.md)
+   - excerpt: {  "itemId": "sandbox_2_recipe_service_5",  "itemType": "RECIPE",  "itemName": "装备供给站图纸",  "itemUsage": "解锁【装备供给站】：消耗装备和武器时维持大幅繁荣度和增益",  "itemDesc": "外勤部干员在每次任务出发前，都会来这里挑选最称手的东西。",  "itemRarity": 2,  "sortId": 5000114,  "obtainApproach": "商店购买、奖励发放" }
+5. [资料页 / sandbox_perm_table / itemData.sandbox_2_building_base_settlement_13](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_building_base_settlement_13-d206543fa377.md)
+   - excerpt: {  "itemId": "sandbox_2_building_base_settlement_13",  "itemType": "BASEBUILDING",  "itemName": "装备供给站",  "itemUsage": "提供160建造评分\n罗德岛新基地中每摆放1个<装备供给站>，关卡中初始获得1个<支援起重机>，最多2个",  "itemDesc": "外勤部干员每次任务出发前都会来这里挑选一波最趁手的东西。",  "itemRarity": 2,  "sortId": 8030014,  "obtainApproach": "基地后勤部商店购买" }
+6. [资料页 / sandbox_perm_table / itemData.sandbox_2_building_base_settlement_14](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_building_base_settlement_14-00101ac08eb0.md)
+   - excerpt: {  "itemId": "sandbox_2_building_base_settlement_14",  "itemType": "BASEBUILDING",  "itemName": "装备供给站",  "itemUsage": "提供320建造评分\n罗德岛新基地中每摆放1个<装备供给站>，关卡中初始获得1个<支援起重机>，最多2个",  "itemDesc": "外勤部干员每次任务出发前都会来这里挑选一波最趁手的东西。",  "itemRarity": 2,  "sortId": 8030013,  "obtainApproach": "升级建筑获得" }
+7. [资料页 / skill_table / sktok_xb2oeqstr](../sources/json/excel_skill_table.json-sktok_xb2oeqstr-f739fb27ed66.md)
+   - excerpt: cription": "<生活>类建筑\n部署后增加{score}建造评分（升级至LV2，增加到{next_score}）\n基地效果：和<道路>相邻时额外增加建造评分\n关卡增益：基地内每部署1个<装备供给站>，关卡内获得1个<支援起重机>，最多2个",  "skillType": "PASSIVE",  "durationType": "NONE",  "spData": {  "spType": 8,  "levelUpCost": null,  "maxChargeTime": 0,  "spCost": 0,  "initSp": 0,  "increment": 0  },  "prefabId": "sktok_xb2

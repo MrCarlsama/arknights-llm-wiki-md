@@ -1,0 +1,29 @@
+---
+kind: "evidence"
+title: "资料页 / sandbox_perm_table / itemData.sandbox_2_building_base_path_3"
+text_complete: true
+---
+
+# 资料页 / sandbox_perm_table / itemData.sandbox_2_building_base_path_3
+
+## 链接的 Wiki 页面
+
+- [补给车直行轨道 (unit)](../../units/补给车直行轨道-c085362336.md)
+- [补给车直行轨道 (unit)](../../units/补给车直行轨道-a32a21ce1d.md)
+- [基地 (unit)](../../units/基地-86becb3f32.md)
+- [罗德岛 (faction)](../../factions/罗德岛-16a64a278e.md)
+
+## 证据正文
+
+```text
+{
+ "itemId": "sandbox_2_building_base_path_3",
+ "itemType": "BASEBUILDING",
+ "itemName": "补给车直行轨道",
+ "itemUsage": "铺设在罗德岛的补给车直行轨道，提供60建造评分",
+ "itemDesc": "工程部为保证新基地建设平稳推进所设计的综合维护补给车的直行轨道。\n铺得越多，走得越远。",
+ "itemRarity": 1,
+ "sortId": 8010003,
+ "obtainApproach": "基地后勤部商店购买"
+}
+```

@@ -1,0 +1,18 @@
+---
+kind: "evidence"
+title: "剧情简介 / activities/act46side/level_act46side_07_end"
+text_complete: true
+---
+
+# 剧情简介 / activities/act46side/level_act46side_07_end
+
+## 链接的 Wiki 页面
+
+- [喀兰贸易 (faction)](../../factions/喀兰贸易-3c6643ee73.md)
+- [维多利亚 (faction)](../../factions/维多利亚-a36b89eaef.md)
+
+## 证据正文
+
+```text
+恩希欧迪斯正式控制了蔓珠院，逮捕了私通维多利亚的阿德颂长老。开斯特却反将一军，公开声称喀兰贸易才是维多利亚最大的盟友。深入矿区后，埃琳娜等人失望地发现她们关于天灾成因的推测完全错误。
+```

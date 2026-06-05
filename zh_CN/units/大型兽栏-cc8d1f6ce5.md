@@ -1,0 +1,51 @@
+---
+kind: "unit"
+id: "unit:trap_487_xblfen"
+name: "大型兽栏"
+aliases: ["大型兽栏","Large Corral"]
+source_count: 39
+mention_count: 40
+---
+
+# 大型兽栏
+
+## 元数据
+
+```json
+{
+  "gameId": "trap_487_xblfen",
+  "rarity": "TIER_1",
+  "profession": "TRAP",
+  "subProfessionId": "notchar2",
+  "nationId": null,
+  "groupId": null,
+  "teamId": null,
+  "itemUsage": null,
+  "itemDesc": null,
+  "tags": null
+}
+```
+
+## 覆盖
+
+- 内部证据页: 39
+- 命中次数: 40
+
+## 证据引用
+
+1. [资料页 / character_table / trap_487_xblfen](../sources/json/excel_character_table.json-trap_487_xblfen-dbcfd107c3c0.md)
+   - excerpt: {  "name": "大型兽栏",  "description": null,  "sortIndex": 190,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+2. [资料页 / character_table / trap_552_xb2fnc2](../sources/json/excel_character_table.json-trap_552_xb2fnc2-839e12ffff47.md)
+   - excerpt: {  "name": "大型兽栏",  "description": "可以圈养大型生物和野生动物：\n角跳兽→毛线\n苔生兽→皮毛\n岩壳蟹→蟹壳碎片\n荧羽兽/啄奔羽兽→羽兽蛋\n绒绒兽/灵绒兽→粗制赤金\n落沙晶蹄兽→晶肝茸髓",  "sortIndex": 189,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivit
+3. [资料页 / character_table / trap_603_xb2ofnc2](../sources/json/excel_character_table.json-trap_603_xb2ofnc2-3085fc45b686.md)
+   - excerpt: {  "name": "大型兽栏",  "description": null,  "sortIndex": 188,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+4. [资料页 / enemy_handbook_table / enemyData.enemy_7047_xbdit](../sources/json/excel_enemy_handbook_table.json-enemyData.enemy_7047_xbdit-8bb48c23eebf.md)
+   - excerpt: "textFormat": "NORMAL"  },  {  "text": "被击倒后概率掉落<制式道具>",  "textFormat": "NORMAL"  },  {  "text": "在<大型兽栏>蓄养时，周期性产出<清水>",  "textFormat": "NORMAL"  }  ],  "linkEnemies": [],  "damageType": [  "MAGIC"  ],  "invisibleDetail": false }
+5. [资料页 / enemy_handbook_table / enemyData.enemy_7049_xbnum](../sources/json/excel_enemy_handbook_table.json-enemyData.enemy_7049_xbnum-ffcd5e8bc3cd.md)
+   - excerpt: ext": "单次受到超过一定值的伤害后会大摔一跤，随机掉落大量辅料（掉落至多触发一次）然后失去伤害减免效果",  "textFormat": "NORMAL"  },  {  "text": "在<大型兽栏>蓄养时，周期性掉落<粗制赤金>",  "textFormat": "NORMAL"  }  ],  "linkEnemies": [],  "damageType": [  "PHYSIC"  ],  "invisibleDetail": false }
+6. [资料页 / sandbox_perm_table / detail](../sources/json/excel_sandbox_perm_table.json-detail-31f53df352ee.md)
+   - excerpt: ngLevel": -1,  "updatedItemId": null,  "minLevelItemId": "sandbox_1_building_41",  "baseItemName": "大型兽栏",  "itemType": "FUNCTION",  "itemTag": "OUTPUT",  "buffId": null  },  "sandbox_1_building_42": {  "itemId": "sandbox_1_building_42",  "trapId": "trap_491_xbtwal",  "trapPhase": 0,  "trapLevel": 1,  "skillIndex": 0, 
+7. [资料页 / sandbox_perm_table / itemData.sandbox_1_building_41](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_1_building_41-f4267239015a.md)
+   - excerpt: {  "itemId": "sandbox_1_building_41",  "itemType": "BUILDING",  "itemName": "大型兽栏",  "itemUsage": "圈养大型生物的兽栏",  "itemDesc": "比一般兽栏更加坚固，可以在其中圈养各种野生生物——包括异兽在内。",  "itemRarity": 4,  "sortId": 1010013,  "obtainApproach": "<组装台>获得" }
+8. [资料页 / sandbox_perm_table / itemData.sandbox_1_drop](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_1_drop-f5ad2f80b79d.md)
+   - excerpt: 一抹唾液会从它的嘴角流下。很少有人知道，这种液体有大用途。",  "itemRarity": 2,  "sortId": 9020003,  "obtainApproach": "陌域战斗概率掉落\n大型兽栏产出" }

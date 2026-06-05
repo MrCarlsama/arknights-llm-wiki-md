@@ -1,0 +1,872 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / char_458_rfrost"
+text_complete: true
+---
+
+# 资料页 / character_table / char_458_rfrost
+
+## 链接的 Wiki 页面
+
+- [霜华 (character)](../../characters/霜华-0d761f69bd.md)
+- [迎宾踏垫 (unit)](../../units/迎宾踏垫-5fd5e614de.md)
+- [彩虹小队 (faction)](../../factions/彩虹小队-8c8b0cedfb.md)
+- [敌人 (event)](../../events/敌人-0c7c99b39b.md)
+
+## 证据正文
+
+```text
+{
+ "name": "霜华",
+ "description": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中",
+ "sortIndex": 860,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": "p_char_458_rfrost",
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": null,
+ "nationId": null,
+ "groupId": null,
+ "teamId": "rainbow",
+ "mainPower": {
+ "nationId": null,
+ "groupId": null,
+ "teamId": "rainbow"
+ },
+ "subPower": null,
+ "displayNumber": "RS03",
+ "appellation": "Frost",
+ "position": "RANGED",
+ "tagList": [
+ "召唤",
+ "控场"
+ ],
+ "itemUsage": "彩虹小队成员霜华，迎宾踏垫已部署。",
+ "itemDesc": "贴心的猎人总会为误打误撞的客人想好一切。",
+ "itemObtainApproach": "招募寻访",
+ "isNotObtainable": false,
+ "isSpChar": false,
+ "maxPotentialLevel": 5,
+ "rarity": "TIER_5",
+ "profession": "SPECIAL",
+ "subProfessionId": "traper",
+ "trait": null,
+ "phases": [
+ {
+ "characterPrefabKey": "char_458_rfrost",
+ "rangeId": "3-1",
+ "maxLevel": 50,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 635,
+ "atk": 240,
+ "def": 64,
+ "magicResistance": 0,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 847,
+ "atk": 329,
+ "def": 98,
+ "magicResistance": 0,
+ "cost": 9,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "char_458_rfrost",
+ "rangeId": "3-3",
+ "maxLevel": 70,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 847,
+ "atk": 329,
+ "def": 98,
+ "magicResistance": 0,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 70,
+ "data": {
+ "maxHp": 1073,
+ "atk": 433,
+ "def": 130,
+ "magicResistance": 0,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3281",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30032",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30012",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "characterPrefabKey": "char_458_rfrost",
+ "rangeId": "3-3",
+ "maxLevel": 80,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1073,
+ "atk": 433,
+ "def": 130,
+ "magicResistance": 0,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 80,
+ "data": {
+ "maxHp": 1359,
+ "atk": 529,
+ "def": 157,
+ "magicResistance": 0,
+ "cost": 11,
+ "blockCnt": 1,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 0.85,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3283",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30094",
+ "count": 8,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30013",
+ "count": 17,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "skills": [
+ {
+ "skillId": "skchr_rfrost_1",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30044",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31023",
+ "count": 1,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30084",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30064",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 10,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30135",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30094",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "skchr_rfrost_2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30054",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31013",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30094",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30074",
+ "count": 6,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 10,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30145",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30064",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ }
+ }
+ ],
+ "displayTokenDict": {
+ "token_10016_rfrost_mine": true
+ },
+ "talents": [
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "迎宾踏垫",
+ "description": "可以使用4个迎宾踏垫（最多拥有6个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 4,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10016_rfrost_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "迎宾踏垫",
+ "description": "可以使用6（+2）个迎宾踏垫（最多拥有6个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 6,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10016_rfrost_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "迎宾踏垫",
+ "description": "可以使用6个迎宾踏垫（最多拥有8个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 6,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10016_rfrost_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "迎宾踏垫",
+ "description": "可以使用8（+2）个迎宾踏垫（最多拥有8个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 8,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10016_rfrost_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "迎宾踏垫",
+ "description": "可以使用8个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 8,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10016_rfrost_mine",
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "迎宾踏垫",
+ "description": "可以使用10（+2）个迎宾踏垫（最多拥有10个），踩上去的第一个敌人会触发其效果",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 10,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": "token_10016_rfrost_mine",
+ "isHideTalent": false
+ }
+ ]
+ }
+ ],
+ "potentialRanks": [
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "再部署时间-4秒",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "RESPAWN_TIME",
+ "formulaItem": "ADDITION",
+ "value": -4,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "攻击力+23",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "ATK",
+ "formulaItem": "ADDITION",
+ "value": 23,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "CUSTOM",
+ "description": "天赋效果增强",
+ "buff": null,
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ }
+ ],
+ "favorKeyFrames": [
+ {
+ "level": 0,
+ "data": {
+ "maxHp": 0,
+ "atk": 0,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 200,
+ "atk": 40,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "allSkillLvlup": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30031",
+ "count": 7,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30042",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30052",
+ "count": 4,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30013",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31013",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30043",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ]
+}
+```

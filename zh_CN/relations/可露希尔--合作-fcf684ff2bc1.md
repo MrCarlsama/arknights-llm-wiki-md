@@ -1,0 +1,31 @@
+---
+kind: "relation"
+left_id: "character:char_4228_closur"
+right_id: "event:story_phatom_set_1"
+left: "可露希尔"
+right: "合作"
+left_kind: "character"
+right_kind: "event"
+source_count: 71
+---
+
+# 可露希尔 (character) / 合作 (event)
+
+## 覆盖
+
+- 内部证据页: 71
+
+## 证据引用
+
+1. [剧情简介 / obt/main/level_main_14-03_end](../sources/story/story__uc_info_obt_main_level_main_14-03_end.txt-27d32a9971d1.md)
+   - excerpt: 可露希尔尝试在战场之中竖起恢复通讯信号的信号塔，关键时刻，罗德岛支援赶到，战场通讯恢复。典范军则与高多汀公爵的军队合作，守住了受到袭击的吉布森镇。
+2. [剧情脚本 / activities/act13mini/level_act13mini_st03](../sources/story/story_activities_act13mini_level_act13mini_st03.txt-34416e9a091c.md)
+   - excerpt: 静冷静...... 洛洛：不过......没错，我确实不能轻率行动。 阿根：嗯嗯，所以洛洛姐你就放心—— 洛洛：但我的无人机可以和你一起去。 阿根：......这不还是会暴露你的身份吗！ 洛洛：临走前可露希尔给了我一种全新的光线反射模块，可以让无人机暂时从人们的视线中隐匿。 阿根：你听起来好像很兴奋...... 洛洛：我还可以对桨叶的旋转模式进行改进，最大程度减少飞行时的声响。超静音模式下即使在安静的室内也不会被人察觉。 阿根：不是，你随身就带着工具吗......哎，洛洛姐你真的要在这里动手拆卸部件吗？ 洛洛：嘘，先坐着，不要走！ 洛洛：等下，我马上就好，这台无人机能帮你大忙，进入大楼后它会第一时间为你探明路线和人员动向。 洛洛：还
+3. [剧情脚本 / activities/act18d0/level_act18d0_st02](../sources/story/story_activities_act18d0_level_act18d0_st02.txt-9edd24e2d996.md)
+   - excerpt: 要答案的话，千百个我都可以回答。 异客：那您就随便挑一个吧。 凯尔希：...... 凯尔希：我—— 凯尔希：Dr.博士，你在这里。 选项：早上好，凯尔希。 / ...... / 有什么事吗？ 凯尔希：可露希尔已经完成了补给需求，但本地似乎有一些突发情况需要你处理，阿米娅已经过去了。 凯尔希：别让那孩子久等，她最近很努力，你应该在她需要你的时候站在她的身边。 凯尔希：......当然，你自己也是。 凯尔希：不要太勉强你自己，罗德岛需要你。 选项：呃，谢谢？ / ...... / 我知道。 凯尔希：接下来我有一场临时会诊，收尾工作只能交给你和阿米娅了。 凯尔希：如果顺利的话，就在日落之前通知罗德岛全舰—— 凯尔希：——起航吧。
+4. [剧情脚本 / activities/act19side/level_act19side_01_beg](../sources/story/story_activities_act19side_level_act19side_01_beg.txt-f8e8a15c81f3.md)
+   - excerpt: chanist：...... Mechanist：我该笑一下吗，博士？ Mechanist：毕竟，你说的可能不是什么科幻故事，或者一个荒诞笑话。 Mechanist：它很可能是明天的新闻。 选项：难怪可露希尔对你又佩服又害怕...... / ...... / 你和Logos不愧是好搭档。 Mechanist：你是指，她偶尔会兼任我的新武器测试用靶？ Mechanist：只要别拿靠不住的点子打扰我工作，她就没必要感到害怕。 Mechanist：...... Mechanist：作为搭档，Logos是还不错。 Mechanist：不过博士，你能提醒一下他吗？ Mechanist：要是他能省略一些修辞，任务耗时将缩短至少三十个百分点，我能
+5. [剧情脚本 / activities/act19side/level_act19side_01_end](../sources/story/story_activities_act19side_level_act19side_01_end.txt-b98a76a8d1f2.md)
+   - excerpt: 奇怪的动力甲：—— Mechanist：......难以置信。 Mechanist：我明明已经启动了信号干扰，就连可露希尔研发的最新一代无人机都不该侦测到我们的位置。 Mechanist：这动力甲用的是什么传感技术？ 选项：能瘫痪它吗？ Mechanist：我本来不想引人注目...... Mechanist：博士，抓紧些。 Mechanist：百分之十功率，瞄准—— Mechanist：命中。 奇怪的动力甲：—— Mechanist：...... Mechanist：侦测到右侧臂甲出现明显破损。 Mechanist：没有减速。在命中的那一刻，它也毫无停顿的
+6. [剧情脚本 / activities/act20side/level_act20side_03_end](../sources/story/story_activities_act20side_level_act20side_03_end.txt-9442024e2e74.md)
+   - excerpt: 玛玛，这边。 停止活动的机械：...... 森蚺：这些结构，这些部件......唔，果然比起单纯的维修而言，难度是要大一些。 森蚺：这是什么原理？这个结构又是干什么的？和大姐的身体完全不一样，也从没听可露希尔师父说过类似的东西。 森蚺：如果接上这里......不，还是小心一点，它也是你的朋友吧？ 奇怪的机械0429：朋友？祖玛玛，多次以朋友定义关系。暂不理解。 奇怪的机械0429：检修无法执行？ 森蚺：如果能找到些资料的话...... 奇怪的机械0429：资料？图书馆，保存资料。 森蚺：你能带我去吗？ 奇怪的机械0429：辅助导航，光荣的使命。祖玛玛，这边。 路过的杜林：真有意思...... 路过的杜林：一种我从没在书上见过的交互模

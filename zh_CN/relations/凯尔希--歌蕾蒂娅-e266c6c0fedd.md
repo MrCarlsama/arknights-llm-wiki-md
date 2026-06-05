@@ -1,0 +1,31 @@
+---
+kind: "relation"
+left_id: "character:char_003_kalts"
+right_id: "character:char_474_glady"
+left: "凯尔希"
+right: "歌蕾蒂娅"
+left_kind: "character"
+right_kind: "character"
+source_count: 46
+---
+
+# 凯尔希 (character) / 歌蕾蒂娅 (character)
+
+## 覆盖
+
+- 内部证据页: 46
+
+## 证据引用
+
+1. [剧情简介 / activities/act34side/level_act34side_08_end](../sources/story/story__uc_info_activities_act34side_level_act34side_08_end.txt-2e360fa3d559.md)
+   - excerpt: 弥利亚留姆与阿戈尔本境恢复联系，歌蕾蒂娅的母亲通过远程通讯，与克莱门莎执政官和凯尔希商榷海洋与陆地的联合，但结果并不愉快。神秘的海嗣在离开前与斯卡蒂遭遇，这是两位“伊莎玛拉”的相逢。
+2. [剧情脚本 / activities/act17side/level_act17side_02_end](../sources/story/story_activities_act17side_level_act17side_02_end.txt-1d851f72854e.md)
+   - excerpt: 诺和哄骗划上等号，事情也许会简单些。 慌乱的镇民：这、这些怪物——这些怪物！ 慌乱的镇民：我早就说过，该叫审判庭来！谁来帮帮忙——谁来—— 恐鱼：咕......咕哈...... 慌乱的镇民：咿——！ 歌蕾蒂娅：凯尔希挑选的见面地点，实在有些令人不敢恭维。 歌蕾蒂娅：这里发生了什么？ 慌乱的镇民：谢、谢谢......你......你是阿戈尔人？你也是外来的阿戈尔人？ 歌蕾蒂娅：......也？ 歌蕾蒂娅：啊......你是在说日落即逝的各位。阿戈尔人......呵。 慌乱的镇民：......那个，你们，你们是来和它们战斗的？我看你一下就能把这些怪物干掉...... 歌蕾蒂娅：你们对阿戈尔人的态度似乎与别处不太一样。 慌乱的镇民：其实直
+3. [剧情脚本 / activities/act17side/level_act17side_03_end](../sources/story/story_activities_act17side_level_act17side_03_end.txt-5e2556f68a00.md)
+   - excerpt: 圣徒卡门：与报告如出一辙，我很好奇这究竟是一只怎样的生物。 Mon3tr：（警示性的低鸣） 圣徒卡门：喔喔......别生气，小家伙，看来你能听懂人话。 歌蕾蒂娅：这些恐鱼的身上有别的寄生物......但我从未在陆地上见过它们。 圣徒卡门：伊比利亚人称之为“溟痕”。 圣徒卡门：大静谧之后，伊比利亚的沿海居民偶尔会看见海洋发光的现象。最早的一次目击报告在十七年前。 圣徒卡门：我们的科研学者认为这是某种浮游生物集中爆发的结果。 圣徒卡门：那么，机会难得，我想知道阿戈尔人见过这些......令人不安的东西吗？ 歌蕾蒂娅：阿戈尔过去极少见到这样的现象，但是荧光的植物？科学院富丽堂皇的花园里从不缺这类观赏
+4. [剧情脚本 / activities/act17side/level_act17side_04_end](../sources/story/story_activities_act17side_level_act17side_04_end.txt-65e6ae7806cc.md)
+   - excerpt: 回到了骑士之国，饱受争议...... 但是...... ......也有人相信，相信疯癫的骑士战胜了海、时间与死亡。他奔赴追逐，直到万物终结。 ？？？：...... ？？？：............ 歌蕾蒂娅：你是......什么东西？ ？？？：...... 骑士没有答话。他死死盯着歌蕾蒂娅。 歌蕾蒂娅很快意识到，他并非盯着自己。 他只是......盯着自己怀里的，那把钥匙。 ？？？：嘎......咳咳......嘶...... 骑士张嘴，骑士要发出声音。干瘪的声响，像是肌肉撕裂。 骑士开始向前迈步。 圣徒卡门：你从哪里拿到那把钥匙的？ 凯尔希：...... 圣徒卡门：喔，我无意......打探所谓罗德岛的内部事务。 圣徒卡门：可那
+5. [剧情简介 / activities/act18d3/level_act18d3_st02](../sources/story/story__uc_info_activities_act18d3_level_act18d3_st02.txt-83cd84085061.md)
+   - excerpt: 在审判官面前，凯尔希力保三位猎人，将她们送出盐风城。回到罗德岛的歌蕾蒂娅，却发现异变正在发生。
+6. [剧情简介 / activities/act34side/level_act34side_07_end](../sources/story/story__uc_info_activities_act34side_level_act34side_07_end.txt-667412a451bb.md)
+   - excerpt: 神秘的海嗣降临城市。凯尔希等人得知了深海教会的由来，以及有关海嗣的更多真相。歌蕾蒂娅赶回城市，却没能留下乌尔比安。乌尔比安将已经巢穴化的信标塔与城市分离，与其共同沉入海底。

@@ -1,0 +1,17 @@
+---
+kind: "evidence"
+title: "剧情简介 / activities/act43side/level_act43side_01_beg"
+text_complete: true
+---
+
+# 剧情简介 / activities/act43side/level_act43side_01_beg
+
+## 链接的 Wiki 页面
+
+暂无实体链接。
+
+## 证据正文
+
+```text
+老演员道尔顿的死被制片人格蕾塔强硬地定性为意外，统筹谢莉却认定这与五年前的某件旧事有关。弄假成真的“杀人”让卢西恩回忆起过去剧团长为年幼的自己上的一课。
+```

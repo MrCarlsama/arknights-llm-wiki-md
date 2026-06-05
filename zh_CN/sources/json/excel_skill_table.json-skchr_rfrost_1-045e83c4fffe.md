@@ -1,0 +1,363 @@
+---
+kind: "evidence"
+title: "资料页 / skill_table / skchr_rfrost_1"
+text_complete: true
+---
+
+# 资料页 / skill_table / skchr_rfrost_1
+
+## 链接的 Wiki 页面
+
+- [迎宾踏垫 (unit)](../../units/迎宾踏垫-5fd5e614de.md)
+
+## 证据正文
+
+```text
+{
+ "skillId": "skchr_rfrost_1",
+ "iconId": null,
+ "hidden": false,
+ "levels": [
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 22,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 2,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 21,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 2.1,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 20,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 2.2,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 19,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 2.4,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 18,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 2.5,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 17,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 2.6,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 16,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 2.8,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 15,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 3,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1.2,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 14,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 3.2,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1.2,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "陷阱部署",
+ "rangeId": null,
+ "description": "被动效果：迎宾踏垫触发时对目标造成相当于攻击力的{atk_scale:0%}的物理伤害，并使其<$ba.stun>晕眩{stun}秒\\n主动效果：立即获得一个迎宾踏垫",
+ "skillType": "AUTO",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 12,
+ "initSp": 0,
+ "increment": 1
+ },
+ "prefabId": "skchr_rfrost_1",
+ "duration": 0,
+ "blackboard": [
+ {
+ "key": "cnt",
+ "value": 1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_scale",
+ "value": 3.5,
+ "valueStr": null
+ },
+ {
+ "key": "stun",
+ "value": 1.5,
+ "valueStr": null
+ }
+ ]
+ }
+ ]
+}
+```

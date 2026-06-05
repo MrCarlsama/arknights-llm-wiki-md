@@ -1,0 +1,463 @@
+---
+kind: "evidence"
+title: "资料页 / skill_table / skchr_blkngt_1"
+text_complete: true
+---
+
+# 资料页 / skill_table / skchr_blkngt_1
+
+## 链接的 Wiki 页面
+
+- [眠兽 (unit)](../../units/眠兽-cde871f6d9.md)
+
+## 证据正文
+
+```text
+{
+ "skillId": "skchr_blkngt_1",
+ "iconId": null,
+ "hidden": false,
+ "levels": [
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 34,
+ "initSp": 10,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.07,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.2,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.2,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 33,
+ "initSp": 10,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.08,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.23,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.23,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 32,
+ "initSp": 10,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.09,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.26,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.26,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 31,
+ "initSp": 12,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.1,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.3,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.3,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 30,
+ "initSp": 12,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.11,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.33,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.33,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 29,
+ "initSp": 12,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.12,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.36,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.36,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 28,
+ "initSp": 14,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.13,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.4,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.4,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 27,
+ "initSp": 15,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.14,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.45,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.45,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 26,
+ "initSp": 16,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.14,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.5,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.5,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "半醒",
+ "rangeId": null,
+ "description": "立刻获得{cost}点部署费用，眠兽进入休眠，期间每秒恢复{hp_recovery_per_sec_by_max_hp_ratio:0%}最大生命；眠兽受到伤害时醒来，攻击力+{blkngt_hypnos_s_1[rage].atk:0%}，攻击速度+{blkngt_hypnos_s_1[rage].attack_speed:0%}，持续{blkngt_hypnos_s_1[rage].duration}秒",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 25,
+ "initSp": 17,
+ "increment": 1
+ },
+ "prefabId": "skchr_blkngt_1",
+ "duration": 10,
+ "blackboard": [
+ {
+ "key": "cost",
+ "value": 11,
+ "valueStr": null
+ },
+ {
+ "key": "hp_recovery_per_sec_by_max_hp_ratio",
+ "value": 0.14,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].atk",
+ "value": 0.55,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].attack_speed",
+ "value": 0.55,
+ "valueStr": null
+ },
+ {
+ "key": "blkngt_hypnos_s_1[rage].duration",
+ "value": 10,
+ "valueStr": null
+ }
+ ]
+ }
+ ]
+}
+```

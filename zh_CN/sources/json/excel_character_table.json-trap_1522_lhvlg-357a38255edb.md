@@ -1,0 +1,161 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / trap_1522_lhvlg"
+text_complete: true
+---
+
+# 资料页 / character_table / trap_1522_lhvlg
+
+## 链接的 Wiki 页面
+
+- [先遣侦测器 (unit)](../../units/先遣侦测器-d490166c7e.md)
+- [侦测器 (unit)](../../units/侦测器-95d5f4c52f.md)
+- [侦测中心 (unit)](../../units/侦测中心-fca3eee4d1.md)
+
+## 证据正文
+
+```text
+{
+ "name": "先遣侦测器",
+ "description": null,
+ "sortIndex": 1002,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": null,
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": null,
+ "nationId": null,
+ "groupId": null,
+ "teamId": null,
+ "mainPower": {
+ "nationId": null,
+ "groupId": null,
+ "teamId": null
+ },
+ "subPower": null,
+ "displayNumber": null,
+ "appellation": "Advance Detector",
+ "position": "NONE",
+ "tagList": null,
+ "itemUsage": null,
+ "itemDesc": null,
+ "itemObtainApproach": null,
+ "isNotObtainable": false,
+ "isSpChar": false,
+ "maxPotentialLevel": 0,
+ "rarity": "TIER_1",
+ "profession": "TRAP",
+ "subProfessionId": "notchar2",
+ "trait": null,
+ "phases": [
+ {
+ "characterPrefabKey": "trap_1522_lhvlg",
+ "rangeId": "0-1",
+ "maxLevel": 30,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1000,
+ "atk": 100,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 5,
+ "blockCnt": 0,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 99,
+ "maxDeckStackCnt": 15,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 30,
+ "data": {
+ "maxHp": 1000,
+ "atk": 100,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 5,
+ "blockCnt": 0,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 99,
+ "maxDeckStackCnt": 15,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ }
+ ],
+ "skills": [
+ {
+ "skillId": "sktok_lhvlg",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [],
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ }
+ }
+ ],
+ "displayTokenDict": null,
+ "talents": [
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "先遣侦测器",
+ "description": "3×3格的【先遣侦测器】会形成【侦测中心】；生成的第四代【先遣侦测器】将不再生成新的【先遣侦测器】",
+ "rangeId": null,
+ "blackboard": [],
+ "tokenKey": null,
+ "isHideTalent": false
+ }
+ ]
+ }
+ ],
+ "potentialRanks": [],
+ "favorKeyFrames": null,
+ "allSkillLvlup": []
+}
+```

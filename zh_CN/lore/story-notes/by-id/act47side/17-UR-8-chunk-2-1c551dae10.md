@@ -1,0 +1,28 @@
+---
+kind: "story_note_redirect"
+storage: "markdown"
+event_id: "act47side"
+event_name: "未许之地"
+story_id: "act47side_level_act47side_08_beg"
+---
+
+# 未许之地 / UR-8 / chunk 2
+
+这是稳定路径剧情笔记页。它保留摘要和关键人物关系，避免 LLM 复制中文目录名失败；需要逐字细节时再打开 canonical_note。
+
+- event_id: act47side
+- canonical_note: [../../未许之地-act47side/17-UR-8-chunk-2-1c551dae10.md](../../未许之地-act47side/17-UR-8-chunk-2-1c551dae10.md)
+- source_story: [sources/story/story_activities_act47side_level_act47side_08_beg.txt-caabad3f6427.md](../../../../sources/story/story_activities_act47side_level_act47side_08_beg.txt-caabad3f6427.md)
+
+## Summary
+
+高登制服了古斯塔夫。园区的人们试图让整个地块转向，逃离哥伦比亚。另一边，娜斯提得知了养母来此的缘由，她道破了养母的执念，想要从“树”中救出养母。
+
+## Characters
+
+- 拂哀菈
+- 娜斯提
+
+## Relationships
+
+- 拂哀菈 / 娜斯提

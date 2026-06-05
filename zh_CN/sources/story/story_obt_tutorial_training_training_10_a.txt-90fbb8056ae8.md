@@ -1,0 +1,40 @@
+---
+kind: "evidence"
+title: "剧情脚本 / obt/tutorial/training/training_10_a"
+text_complete: true
+---
+
+# 剧情脚本 / obt/tutorial/training/training_10_a
+
+## 链接的 Wiki 页面
+
+- [杰西卡 (character)](../../characters/杰西卡-ac8aeca117.md)
+
+## 证据正文
+
+```text
+训练关卡10a
+[Tutorial(black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_doberm")] \
+我方和敌方的远程单位在选择攻击目标时均有一定的优先级，了解这些有助于你更好地指挥作战。
+[Tutorial(focusX=-60, focusY=64, focusWidth=119, focusHeight=125, anchor="BottomRight", \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_doberm")] \
+杰西卡，准备好。该准备部署了。
+[Tutorial(focusX=-60, focusY=64, focusWidth=119, focusHeight=125, anchor="BottomRight", \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_jesica")] \
+终于要上场了......我，我有点紧张......
+[Tutorial(focusX=-60, focusY=64, focusWidth=119, focusHeight=125, anchor="BottomRight", \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_doberm")] \
+不会吧。像你这和新手一样的心理状态，黑钢怎么会同意给你配发铳械的......这可是极为罕见的贵重武器。
+[Tutorial(focusX=-60, focusY=64, focusWidth=119, focusHeight=125, anchor="BottomRight", \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_jesica")] \
+啊，不是......我花了一些钱把它买下来了......
+[Tutorial(focusX=-60, focusY=64, focusWidth=119, focusHeight=125, anchor="BottomRight", \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_doberm")] \
+..................
+```

@@ -1,0 +1,51 @@
+---
+kind: "unit"
+id: "unit:trap_551_xb2fnc"
+name: "小型兽栏"
+aliases: ["小型兽栏","Small corra"]
+source_count: 8
+mention_count: 10
+---
+
+# 小型兽栏
+
+## 元数据
+
+```json
+{
+  "gameId": "trap_551_xb2fnc",
+  "rarity": "TIER_1",
+  "profession": "TRAP",
+  "subProfessionId": "notchar2",
+  "nationId": null,
+  "groupId": null,
+  "teamId": null,
+  "itemUsage": null,
+  "itemDesc": null,
+  "tags": null
+}
+```
+
+## 覆盖
+
+- 内部证据页: 8
+- 命中次数: 10
+
+## 证据引用
+
+1. [资料页 / character_table / trap_551_xb2fnc](../sources/json/excel_character_table.json-trap_551_xb2fnc-5599869f8469.md)
+   - excerpt: {  "name": "小型兽栏",  "description": "每与一个稻谷种植槽或亚麻种植槽相连时，连成片的兽栏内野生动物技力回复速度+0.1/秒（可叠加）；可以圈养小型野生动物：\n角跳兽→毛线\n苔生兽→皮毛\n岩壳蟹→蟹壳碎片\n荧羽兽/啄奔羽兽→羽兽蛋\n绒绒兽→粗制赤金",  "sortIndex": 1009,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotenti
+2. [资料页 / character_table / trap_602_xb2ofnc](../sources/json/excel_character_table.json-trap_602_xb2ofnc-052b57d30399.md)
+   - excerpt: {  "name": "小型兽栏",  "description": null,  "sortIndex": 1010,  "spTargetType": "NONE",  "spTargetId": null,  "canUseGeneralPotentialItem": true,  "canUseActivityPotentialItem": false,  "potentialItemId": null,  "activityPotentialItemId":
+3. [资料页 / sandbox_perm_table / detail](../sources/json/excel_sandbox_perm_table.json-detail-31f53df352ee.md)
+   - excerpt: 时的光景。",  "levelId": "level_sandbox2_02",  "wonderId": null,  "conditions": [  {  "desc": "罗德岛新基地放置4个小型兽栏{0}",  "limitCond": "BaseHasTrap",  "param": [  "4",  "sandbox_2_building_base_agriculture_5"  ]  }  ],  "items": {  "sandbox_2_basegold": 6000  },  "previewDatas": [  {  "previewId": "upgradepreview_7",  "previewVal
+4. [资料页 / sandbox_perm_table / itemData.sandbox_2_building_producer_10](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_building_producer_10-e6843d3549fe.md)
+   - excerpt: {  "itemId": "sandbox_2_building_producer_10",  "itemType": "BUILDING",  "itemName": "小型兽栏",  "itemUsage": "可以养殖野生动物",  "itemDesc": "实用的小型畜牧业设施，可以在其中圈养各种捕捉而来的动物。",  "itemRarity": 0,  "sortId": 5000040,  "obtainApproach": "制作获得" }
+5. [资料页 / sandbox_perm_table / itemData.sandbox_2_recipe_producer_10](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_recipe_producer_10-8d9c5c8a7107.md)
+   - excerpt: {  "itemId": "sandbox_2_recipe_producer_10",  "itemType": "RECIPE",  "itemName": "小型兽栏图纸",  "itemUsage": "解锁【小型兽栏】：可以圈养野生动物\n角跳兽→毛线\n苔生兽→皮毛\n岩壳蟹→蟹壳碎片\n荧羽兽/啄奔羽兽→羽兽蛋\n绒绒兽→粗制赤金",  "itemDesc": "实用的小型畜牧业设施，可以在其中圈养各种捕捉而来的动物。",  "itemRarity": 0,  "sortId": 5000103,  "obtainApproach": "商店购买、奖励发放" }
+6. [资料页 / sandbox_perm_table / itemData.sandbox_2_building_base_agriculture_5](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_building_base_agriculture_5-61addcf080ab.md)
+   - excerpt: {  "itemId": "sandbox_2_building_base_agriculture_5",  "itemType": "BASEBUILDING",  "itemName": "小型兽栏",  "itemUsage": "可畜养野生动物，提供20建造评分\n罗德岛新基地中每摆放1个<大型兽栏>或9个<小型兽栏>，关卡中初始获得<高级捕猎笼>，最多2个",  "itemDesc": "实用的小型畜牧业设施，可以在其中圈养各种捕捉而来的动物。",  "itemRarity": 2,  "sortId": 8020005,  "obtainApproach": "基地后勤部商店购买" }
+7. [资料页 / sandbox_perm_table / itemData.sandbox_2_building_base_agriculture_6](../sources/json/excel_sandbox_perm_table.json-itemData.sandbox_2_building_base_agriculture_6-7e90c71b0946.md)
+   - excerpt: pe": "BASEBUILDING",  "itemName": "大型兽栏",  "itemUsage": "可畜养大型野生动物，提供240建造评分\n罗德岛新基地中每摆放1个<大型兽栏>或9个<小型兽栏>，关卡中初始获得<高级捕猎笼>，最多2个",  "itemDesc": "实用的大型畜牧业设施，可以在其中圈养各种捕捉而来的动物。",  "itemRarity": 2,  "sortId": 8020006,  "obtainApproach": "基地后勤部商店购买" }
+8. [资料页 / skill_table / sktok_xb2ofnc](../sources/json/excel_skill_table.json-sktok_xb2ofnc-408e035d37b1.md)
+   - excerpt: "rangeId": null,  "description": "<农牧>类建筑\n部署后增加{score}建造评分\n基地效果：和<渠道>相邻时额外增加建造评分\n关卡增益：基地内每部署9个<小型兽栏>，关卡内获得1个<高级捕猎笼>，最多2个",  "skillType": "PASSIVE",  "durationType": "NONE",  "spData": {  "spType": 8,  "levelUpCost": null,  "maxChargeTime": 0,  "spCost": 0,  "initSp": 0,  "increment": 0  },  "prefabId": "sktok_xb2ofn

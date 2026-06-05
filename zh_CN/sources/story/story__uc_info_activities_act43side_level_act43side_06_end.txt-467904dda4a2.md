@@ -1,0 +1,17 @@
+---
+kind: "evidence"
+title: "剧情简介 / activities/act43side/level_act43side_06_end"
+text_complete: true
+---
+
+# 剧情简介 / activities/act43side/level_act43side_06_end
+
+## 链接的 Wiki 页面
+
+- [旦夕 (event)](../../events/旦夕-62d7c897fe.md)
+
+## 证据正文
+
+```text
+卢西恩道出莫伊拉为姐姐劳拉复仇的每一步，莫伊拉也在他的步步紧逼之下发现她并不存在于劳拉的人生之中。而此时莫伊拉安装的破坏装置生效，地块撞向天灾，剧组人员的性命危在旦夕，一切无法回头。
+```

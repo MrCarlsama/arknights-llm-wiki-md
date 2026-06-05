@@ -1,0 +1,844 @@
+---
+kind: "evidence"
+title: "资料页 / character_table / char_4165_ctrail"
+text_complete: true
+---
+
+# 资料页 / character_table / char_4165_ctrail
+
+## 链接的 Wiki 页面
+
+- [云迹 (character)](../../characters/云迹-620f157ad6.md)
+- [敌人 (event)](../../events/敌人-0c7c99b39b.md)
+- [一天 (event)](../../events/一天-92546f508c.md)
+
+## 证据正文
+
+```text
+{
+ "name": "云迹",
+ "description": "<$ba.liftoff>起飞后能够阻挡2个飞行敌人",
+ "sortIndex": 1205,
+ "spTargetType": "NONE",
+ "spTargetId": null,
+ "canUseGeneralPotentialItem": true,
+ "canUseActivityPotentialItem": false,
+ "potentialItemId": "p_char_4165_ctrail",
+ "activityPotentialItemId": null,
+ "classicPotentialItemId": null,
+ "nationId": "columbia",
+ "groupId": null,
+ "teamId": null,
+ "mainPower": {
+ "nationId": "columbia",
+ "groupId": null,
+ "teamId": null
+ },
+ "subPower": null,
+ "displayNumber": "CB33",
+ "appellation": "Contrail",
+ "position": "MELEE",
+ "tagList": [
+ "高空",
+ "控场"
+ ],
+ "itemUsage": "飞行冒险家云迹，梦想着和羽兽群一起飞越泰拉大地。",
+ "itemDesc": "她还会抬起头，不再畏惧每一场风暴。",
+ "itemObtainApproach": "凭证交易所",
+ "isNotObtainable": false,
+ "isSpChar": false,
+ "maxPotentialLevel": 5,
+ "rarity": "TIER_4",
+ "profession": "SPECIAL",
+ "subProfessionId": "skywalker",
+ "trait": null,
+ "phases": [
+ {
+ "characterPrefabKey": "char_4165_ctrail",
+ "rangeId": "1-1",
+ "maxLevel": 45,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 947,
+ "atk": 289,
+ "def": 164,
+ "magicResistance": 0,
+ "cost": 14,
+ "blockCnt": 2,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.5,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 45,
+ "data": {
+ "maxHp": 1353,
+ "atk": 414,
+ "def": 235,
+ "magicResistance": 0,
+ "cost": 14,
+ "blockCnt": 2,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.5,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": null
+ },
+ {
+ "characterPrefabKey": "char_4165_ctrail",
+ "rangeId": "2-2",
+ "maxLevel": 60,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1353,
+ "atk": 414,
+ "def": 235,
+ "magicResistance": 0,
+ "cost": 16,
+ "blockCnt": 2,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.5,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 60,
+ "data": {
+ "maxHp": 1781,
+ "atk": 546,
+ "def": 310,
+ "magicResistance": 0,
+ "cost": 16,
+ "blockCnt": 2,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.5,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3281",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30022",
+ "count": 1,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30042",
+ "count": 1,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "characterPrefabKey": "char_4165_ctrail",
+ "rangeId": "2-2",
+ "maxLevel": 70,
+ "attributesKeyFrames": [
+ {
+ "level": 1,
+ "data": {
+ "maxHp": 1781,
+ "atk": 546,
+ "def": 310,
+ "magicResistance": 0,
+ "cost": 16,
+ "blockCnt": 2,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.5,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 70,
+ "data": {
+ "maxHp": 2255,
+ "atk": 692,
+ "def": 393,
+ "magicResistance": 0,
+ "cost": 16,
+ "blockCnt": 2,
+ "moveSpeed": 1,
+ "attackSpeed": 100,
+ "baseAttackTime": 1.5,
+ "respawnTime": 70,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 1,
+ "maxDeployCount": 1,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "evolveCost": [
+ {
+ "id": "3282",
+ "count": 5,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30063",
+ "count": 13,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30033",
+ "count": 8,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "skills": [
+ {
+ "skillId": "skchr_ctrail_1",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31054",
+ "count": 1,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30063",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31074",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31064",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30115",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31084",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ }
+ },
+ {
+ "skillId": "skchr_ctrail_2",
+ "overridePrefabKey": null,
+ "overrideTokenKey": null,
+ "levelUpCostCond": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 28800,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31014",
+ "count": 1,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30073",
+ "count": 5,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 57600,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30094",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30044",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "lvlUpTime": 86400,
+ "levelUpCost": [
+ {
+ "id": "3303",
+ "count": 6,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30135",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31044",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ],
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ }
+ }
+ ],
+ "displayTokenDict": null,
+ "talents": [
+ {
+ "candidates": [
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "低空乱流",
+ "description": "在地面时防御力+5%，<$ba.liftoff>起飞后攻击敌人时攻击力提升至105%",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "atk_scale",
+ "value": 1.05,
+ "valueStr": null
+ },
+ {
+ "key": "def",
+ "value": 0.05,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "低空乱流",
+ "description": "在地面时防御力+7%（+2%），<$ba.liftoff>起飞后攻击敌人时攻击力提升至107%（+2%）",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "atk_scale",
+ "value": 1.07,
+ "valueStr": null
+ },
+ {
+ "key": "def",
+ "value": 0.07,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 0,
+ "prefabKey": "1",
+ "name": "低空乱流",
+ "description": "在地面时防御力+10%，<$ba.liftoff>起飞后攻击敌人时攻击力提升至110%",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "atk_scale",
+ "value": 1.1,
+ "valueStr": null
+ },
+ {
+ "key": "def",
+ "value": 0.1,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ },
+ {
+ "unlockCondition": {
+ "phase": "PHASE_2",
+ "level": 1
+ },
+ "requiredPotentialRank": 4,
+ "prefabKey": "1",
+ "name": "低空乱流",
+ "description": "在地面时防御力+12%（+2%），<$ba.liftoff>起飞后攻击敌人时攻击力提升至112%（+2%）",
+ "rangeId": null,
+ "blackboard": [
+ {
+ "key": "atk_scale",
+ "value": 1.12,
+ "valueStr": null
+ },
+ {
+ "key": "def",
+ "value": 0.12,
+ "valueStr": null
+ }
+ ],
+ "tokenKey": null,
+ "isHideTalent": false
+ }
+ ]
+ }
+ ],
+ "potentialRanks": [
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "再部署时间-4秒",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "RESPAWN_TIME",
+ "formulaItem": "ADDITION",
+ "value": -4,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "攻击力+25",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "ATK",
+ "formulaItem": "ADDITION",
+ "value": 25,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ },
+ {
+ "type": "CUSTOM",
+ "description": "第一天赋效果增强",
+ "buff": null,
+ "equivalentCost": null
+ },
+ {
+ "type": "BUFF",
+ "description": "部署费用-1",
+ "buff": {
+ "attributes": {
+ "abnormalFlags": null,
+ "abnormalImmunes": null,
+ "abnormalAntis": null,
+ "abnormalCombos": null,
+ "abnormalComboImmunes": null,
+ "attributeModifiers": [
+ {
+ "attributeType": "COST",
+ "formulaItem": "ADDITION",
+ "value": -1,
+ "loadFromBlackboard": false,
+ "fetchBaseValueFromSourceEntity": false
+ }
+ ]
+ }
+ },
+ "equivalentCost": null
+ }
+ ],
+ "favorKeyFrames": [
+ {
+ "level": 0,
+ "data": {
+ "maxHp": 0,
+ "atk": 0,
+ "def": 0,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ },
+ {
+ "level": 50,
+ "data": {
+ "maxHp": 0,
+ "atk": 35,
+ "def": 35,
+ "magicResistance": 0,
+ "cost": 0,
+ "blockCnt": 0,
+ "moveSpeed": 0,
+ "attackSpeed": 0,
+ "baseAttackTime": 0,
+ "respawnTime": 0,
+ "hpRecoveryPerSec": 0,
+ "spRecoveryPerSec": 0,
+ "maxDeployCount": 0,
+ "maxDeckStackCnt": 0,
+ "tauntLevel": 0,
+ "massLevel": 0,
+ "baseForceLevel": 0,
+ "stunImmune": false,
+ "silenceImmune": false,
+ "sleepImmune": false,
+ "frozenImmune": false,
+ "levitateImmune": false,
+ "disarmedCombatImmune": false,
+ "fearedImmune": false,
+ "palsyImmune": false,
+ "attractImmune": false
+ }
+ }
+ ],
+ "allSkillLvlup": [
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3301",
+ "count": 2,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30041",
+ "count": 3,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_0",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30052",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30062",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3302",
+ "count": 3,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "30073",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ },
+ {
+ "unlockCond": {
+ "phase": "PHASE_1",
+ "level": 1
+ },
+ "lvlUpCost": [
+ {
+ "id": "3303",
+ "count": 4,
+ "type": "MATERIAL"
+ },
+ {
+ "id": "31083",
+ "count": 2,
+ "type": "MATERIAL"
+ }
+ ]
+ }
+ ]
+}
+```

@@ -1,0 +1,463 @@
+---
+kind: "evidence"
+title: "资料页 / skill_table / skchr_sleach_2"
+text_complete: true
+---
+
+# 资料页 / skill_table / skchr_sleach_2
+
+## 链接的 Wiki 页面
+
+- [琴柳 (character)](../../characters/琴柳-7c28aa6a50.md)
+
+## 证据正文
+
+```text
+{
+ "skillId": "skchr_sleach_2",
+ "iconId": null,
+ "hidden": false,
+ "levels": [
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 38,
+ "initSp": 5,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.1,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.1,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 37,
+ "initSp": 5,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.14,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.14,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 36,
+ "initSp": 5,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.18,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.18,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 35,
+ "initSp": 10,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.22,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.22,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 34,
+ "initSp": 10,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.26,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.26,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 33,
+ "initSp": 10,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.3,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.3,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 32,
+ "initSp": 12,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.35,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.35,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 31,
+ "initSp": 13,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.4,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.4,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 30,
+ "initSp": 14,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.45,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.45,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ },
+ {
+ "name": "信仰传承",
+ "rangeId": "x-1",
+ "description": "停止攻击，持续时间内回复总共{value}点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+{def:0%}且每秒恢复相当于琴柳攻击力{atk_to_hp_recovery_ratio:0%}的生命值。技能结束时收回军旗。",
+ "skillType": "MANUAL",
+ "durationType": "NONE",
+ "spData": {
+ "spType": "INCREASE_WITH_TIME",
+ "levelUpCost": null,
+ "maxChargeTime": 1,
+ "spCost": 29,
+ "initSp": 15,
+ "increment": 1
+ },
+ "prefabId": "skchr_sleach_2",
+ "duration": 15,
+ "blackboard": [
+ {
+ "key": "def",
+ "value": 0.5,
+ "valueStr": null
+ },
+ {
+ "key": "atk_to_hp_recovery_ratio",
+ "value": 0.5,
+ "valueStr": null
+ },
+ {
+ "key": "value",
+ "value": 20,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].interval",
+ "value": 0.75,
+ "valueStr": null
+ },
+ {
+ "key": "sleach_s_2[cost].cost",
+ "value": 1,
+ "valueStr": null
+ }
+ ]
+ }
+ ]
+}
+```

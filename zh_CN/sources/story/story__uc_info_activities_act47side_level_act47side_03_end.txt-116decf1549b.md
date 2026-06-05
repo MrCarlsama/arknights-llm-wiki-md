@@ -1,0 +1,17 @@
+---
+kind: "evidence"
+title: "剧情简介 / activities/act47side/level_act47side_03_end"
+text_complete: true
+---
+
+# 剧情简介 / activities/act47side/level_act47side_03_end
+
+## 链接的 Wiki 页面
+
+暂无实体链接。
+
+## 证据正文
+
+```text
+得到高登帮助的“幸运瘤兽”得以留在园区，但斯凯敏锐地从他们的设施中察觉到了异常。另一边，逃跑的两人被追兵意外炸进了高登的秘密收藏室——这里藏着高登用来帮助“幸运瘤兽”和其他许多企业的违禁走私品。
+```

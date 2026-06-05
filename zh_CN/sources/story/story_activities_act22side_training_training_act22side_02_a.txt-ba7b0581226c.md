@@ -1,0 +1,31 @@
+---
+kind: "evidence"
+title: "剧情脚本 / activities/act22side/training/training_act22side_02_a"
+text_complete: true
+---
+
+# 剧情脚本 / activities/act22side/training/training_act22side_02_a
+
+## 链接的 Wiki 页面
+
+- [玫兰莎 (character)](../../characters/玫兰莎-3e89da9be6.md)
+
+## 证据正文
+
+```text
+活动22side教学关02_a
+[Tutorial(focusX=-45, focusY=45, focusWidth=140, focusHeight=140, \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_melan", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+啊，怎么......
+[Tutorial(focusX=-45, focusY=45, focusWidth=140, focusHeight=140, \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_doberm", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+一些情形下战场上的芦苇丛会被点燃。
+[Tutorial(focusX=-45, focusY=45, focusWidth=140, focusHeight=140, \
+animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \
+protectTime=0.5, dialogHead="$avatar_doberm", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
+燃烧的芦苇丛不再提供迷彩，并且站在其中的干员会受到法术伤害与灼燃损伤。
+抱歉......我正在想办法应对火情。
+再坚持一下，玫兰莎。火势正在逐渐减小。
+```

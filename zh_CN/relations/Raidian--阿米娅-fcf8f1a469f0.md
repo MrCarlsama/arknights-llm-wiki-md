@@ -1,0 +1,31 @@
+---
+kind: "relation"
+left_id: "character:char_614_acsupo"
+right_id: "unit:trap_627_xb2amy"
+left: "Raidian"
+right: "阿米娅"
+left_kind: "character"
+right_kind: "unit"
+source_count: 44
+---
+
+# Raidian (character) / 阿米娅 (unit)
+
+## 覆盖
+
+- 内部证据页: 44
+
+## 证据引用
+
+1. [剧情脚本 / activities/act25side/level_act25side_04_beg](../sources/story/story_activities_act25side_level_act25side_04_beg.txt-421adfa14d0e.md)
+   - excerpt: 送到了......罗德岛。对，罗德岛，就是这个名字。 洛肯：在那场灾难之后......我听说那家机构接纳了你。他们对你还好吗？ 迷迭香：他们是......家人。 迷迭香：凯尔希医生，阿米娅，博士，煌，Raidian......还有小队里的大家，都是我的家人。 洛肯：家人......这么说，你找到了一个新家......咳咳咳...... 瘦削的男人剧烈地咳嗽起来，本就不那么挺拔的身躯显得越发佝偻。 他注视着迷迭香，似乎想要走得更近一些，然而一道薄薄的水墙拦住了他的脚步。 不止缪尔赛思记起了他是谁，你同样也记得他的名字，那个在迷迭香的档案中被反复提及的名字。 这样一位理应待在监狱里的罪犯，竟突然出现在你们面前，就仿佛一位下班路上匆匆赶来
+2. [剧情脚本 / activities/act25side/level_act25side_04_end](../sources/story/story_activities_act25side_level_act25side_04_end.txt-be7c1fe353b9.md)
+   - excerpt: 迷迭香：我的装置和罗德岛的船舱一样，一旦坏了，就需要Mechanist和可露希尔花很多时间调整。 迷迭香：嗯。 迷迭香：煌和Sharp每次陪我训练，都会抱怨说比出任务还要累。 迷迭香：在离开本舰之前，Raidian跟我说，Logos很快就会和阿米娅一起回来。 迷迭香：我也很想念阿米娅，很想很想。 迷迭香：博士，等我们完成这次任务，回到罗德岛，是不是就有可能见到他们了？ 选项：我也很想他们。 / 我也希望早点见到他们。 迷迭香：博士，你是不是到了？ 选项：是的，信息里说的位置就在这条巷子里。 / 锡人应该在等我了吧？ 选项：我们很快就能回家了，我保证。 巷子很深，很黑，很安静。 骨碌碌，骨碌碌。有什么东西从小巷深处的阴影里滚了出来。 
+3. [剧情脚本 / obt/main/level_main_07-06_beg](../sources/story/story_obt_main_level_main_07-06_beg.txt-0cfbd9be11fb.md)
+   - excerpt: 急剧增加。 凯尔希：侦察小队与行动小队已经先我们一步到位。迄今为止都很顺利。 选项：我们怎么只有三支小队共同行动？ 凯尔希：侦察小队和特别行动小队有他们各自的任务。 凯尔希：作为罗德岛的通讯专家之一，Raidian在这次行动中领导侦察小队。 凯尔希：依靠Raidian，侦察小队在核心城作战中发挥着通讯中继点的作用。 凯尔希：即使在这里，我们也能与其他队伍交流，这全部仰赖这支小队的努力。 选项：我没看见他们...... 凯尔希：侦察小队从来都独来独往。 凯尔希：Outcast，Raidian，以及在切城营救行动中英勇牺牲的Scout—— 凯尔希：担任侦察小队队长的精英干员们，担负着独自领导一支小队，发现危机，报告危机，以及尝试独自处理
+4. [剧情简介 / obt/main/level_main_16-06_end](../sources/story/story__uc_info_obt_main_level_main_16-06_end.txt-e14e6994ef57.md)
+   - excerpt: 科谢尼娅醒来，博士和Mon3tr尝试向她询问石棺和Raidian小队的线索。阿米娅和Mantra找到Raidian留下的信标，得知了矿工们可能的去向。在矿工们逃亡的途中，一桩惨案发生了。
+5. [剧情简介 / obt/main/level_main_16-11_end](../sources/story/story__uc_info_obt_main_level_main_16-11_end.txt-a02e76be3ef6.md)
+   - excerpt: 阿米娅等人来到经历火灾后的村庄，与Raidian小队会合。众人商量好了如何安置村民与留下的矿工。Raidian前去询问矿工们的想法，奇怪的情况却发生了。Mantra发现异样，介入调查。
+6. [剧情简介 / obt/main/level_main_17-06_beg](../sources/story/story__uc_info_obt_main_level_main_17-06_beg.txt-5c1dde4a7591.md)
+   - excerpt: 为Raidian寻找药品的路上，阿米娅被不明生物引至一位怪病发作的患者身边。在将其带到本地诊所后，她遇到了同在此处的希尔达。

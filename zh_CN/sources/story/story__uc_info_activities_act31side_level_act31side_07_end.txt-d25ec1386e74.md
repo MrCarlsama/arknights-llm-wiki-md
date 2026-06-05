@@ -1,0 +1,18 @@
+---
+kind: "evidence"
+title: "剧情简介 / activities/act31side/level_act31side_07_end"
+text_complete: true
+---
+
+# 剧情简介 / activities/act31side/level_act31side_07_end
+
+## 链接的 Wiki 页面
+
+暂无实体链接。
+
+## 证据正文
+
+```text
+为了保护自己的土地，大荒城众人展示出了无可动摇的团结与勇气。
+或许是因为与这片土地深厚的联系，一缕模糊的意识在混沌中重新凝聚。
+```
